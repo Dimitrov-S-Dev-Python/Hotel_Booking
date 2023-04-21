@@ -85,4 +85,4 @@ if hotel.available():
     else:
         print("There was a problem with your payment!")
 else:
-    print("Hotel is not free")
+    print("Hotel is not free.")
