@@ -81,7 +81,7 @@ class SpaTicket:
     def generate(self):
         content = f"""
         Thank you for your SPA reservation!
-        Here are your SPA booking data:
+        Here is, your SPA booking data:
         Name: {self.customer_name}
         Hotel name: {self.hotel.name}
         """
